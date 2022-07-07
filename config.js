@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['ArullBotzMD']
-global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
+global.namabot = ['BotBgDaff']
+global.namaowner = ['BgDaff']
+global.owner = ['6281321468439']
+global.premium = ['6281321468439']
 global.packname = 'Sticker By'
-global.author = 'ArullOfc'
+global.author = 'BgDaff'
 global.sessionName = 'zxyn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
